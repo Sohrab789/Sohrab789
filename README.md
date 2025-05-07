@@ -34,16 +34,16 @@
 <h3 align="left">🤝 Connect with me:</h3>
 
 <div align="center">
-  <a href="https://linkedin.com/in/https: sohrab-ali-241ba072/" target="_blank">
+  <a href="https://www.linkedin.com/in/sohrab-ali-241ba072/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://medium.com/@sohrab" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/modsohrabali" target="_blank">
+  <a href="https://www.hackerrank.com/modsohrabali" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
-  <a href="https://www.leetcode.com/https://leetcode.com/u/sohrab789/" target="_blank">
+  <a href="https://leetcode.com/sohrab789/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </div>
