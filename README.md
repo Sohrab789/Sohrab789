@@ -31,7 +31,7 @@
         9.27 CGPA (2025)
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Sohrab789/Sohrab789/main/jamia_logo.png" width="100px" alt="JMI"/>
+        <img src="https://www.pngwing.com/files/png/111/1116241_jamia-millia-islamia-logo-university-india-png.png" width="100px" alt="JMI"/>
         <br />
         <b>Jamia Millia Islamia, New Delhi</b>
         <br />
