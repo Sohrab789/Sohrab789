@@ -1,7 +1,10 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Sohrab Ali
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Artificial+Intelligence+Engineer;Deep+Reinforcement+Learning;Multi-Agent+Systems;Computer+Vision" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=900&height=100&lines=Artificial+Intelligence+Engineer;Deep+Reinforcement+Learning;Multi-Agent+Systems;Computer+Vision;Reinforcement+Learning%2C+Computer+Vision%2C+GenAI" alt="Typing SVG" />
+  <br/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" alt="Waving Hand"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F7B801&center=true&vCenter=true&width=600&height=40&lines=Now+Playing%3A+Multi-Agent+Deep+RL;Current+Focus%3A+GenAI+and+Autonomy" alt="Now Playing Animation" />
 </div>
 
 <div align="center">
@@ -28,7 +31,7 @@
         9.27 CGPA (2025)
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Jamia_Millia_Islamia_Logo.svg/1200px-Jamia_Millia_Islamia_Logo.svg.png" width="100px" alt="JMI"/>
+        <img src="https://raw.githubusercontent.com/Sohrab789/Sohrab789/main/jamia_logo.png" width="100px" alt="JMI"/>
         <br />
         <b>Jamia Millia Islamia, New Delhi</b>
         <br />
