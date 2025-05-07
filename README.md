@@ -13,6 +13,87 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohrab789&theme=radical" alt="streak" />
 </div>
 
+## 🎓 Education
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/1200px-IIT_Madras_Logo.svg.png" width="100px" alt="IIT Madras"/>
+        <br />
+        <b>Indian Institute of Technology, Madras</b>
+        <br />
+        MS in Marine Robotics
+        <br />
+        9.27 CGPA (2025)
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Jamia_Millia_Islamia_Logo.svg/1200px-Jamia_Millia_Islamia_Logo.svg.png" width="100px" alt="JMI"/>
+        <br />
+        <b>Jamia Millia Islamia, New Delhi</b>
+        <br />
+        B.Tech in Civil Engineering
+        <br />
+        9.22 CGPA (2021)
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 💻 Technical Skills
+
+### Programming Languages
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+
+### AI/ML Frameworks & Libraries
+<div align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-0A0A0A?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gym-0081A5?style=for-the-badge&logo=gym&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tensorboard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLTK-7CCB5B?style=for-the-badge&logo=nltk&logoColor=white" />
+</div>
+
+### Development Tools & Platforms
+<div align="center">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
+</div>
+
+### Soft Skills
+<div align="center">
+  <img src="https://img.shields.io/badge/Leadership-FF6B6B?style=for-the-badge&logo=leadership&logoColor=white" />
+  <img src="https://img.shields.io/badge/Teamwork-4CAF50?style=for-the-badge&logo=teamwork&logoColor=white" />
+  <img src="https://img.shields.io/badge/Communication-2196F3?style=for-the-badge&logo=communication&logoColor=white" />
+  <img src="https://img.shields.io/badge/Versatility-9C27B0?style=for-the-badge&logo=versatility&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adaptability-FF9800?style=for-the-badge&logo=adaptability&logoColor=white" />
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohrab789&label=Profile%20views&color=0e75b6&style=flat" alt="sohrab789" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohrab789" alt="sohrab789" /></a> </p>
@@ -54,19 +135,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sohrab789&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</div>
-
-<h3 align="left">🛠️ Languages and Tools:</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 <h3 align="left">📊 Skills Progress:</h3>
